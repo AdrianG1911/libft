@@ -1,1 +1,2 @@
-# libft_adrgutie
+# libft
+Project for 42 Tokyo
